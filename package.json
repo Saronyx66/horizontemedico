@@ -1,0 +1,24 @@
+{
+  "name": "horizontemedico",
+  "version": "1.0.0",
+  "description": "Proyecto final para Marlita",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saronyx66/horizontemedico.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saronyx66/horizontemedico/issues"
+  },
+  "homepage": "https://github.com/Saronyx66/horizontemedico#readme",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.0",
+    "tailwindcss": "^4.3.0"
+  }
+}
