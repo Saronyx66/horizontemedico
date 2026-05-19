@@ -18,3 +18,11 @@ h2,h3{
 .contenedor2{
     background-color: #15a8bc;
 }
+.logo1 {
+    background: url('./assets/logo1.svg') no-repeat center;
+    background-size: contain;
+}
+.logo2 {
+    background: url('./assets/logo2.svg') no-repeat center;
+    background-size: contain;
+}
